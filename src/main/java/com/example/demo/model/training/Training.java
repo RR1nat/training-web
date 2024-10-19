@@ -1,7 +1,7 @@
-package com.example.demo.models.training;
+package com.example.demo.model.training;
 
-import com.example.demo.models.training.enums.LevelEnum;
-import com.example.demo.models.training.enums.TypeEnum;
+import com.example.demo.model.training.enums.LevelEnum;
+import com.example.demo.model.training.enums.TypeEnum;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
